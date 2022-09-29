@@ -1,0 +1,38 @@
+[
+  {
+    "id": "88272a0020f9",
+    "img": "./img/push-ups.png",
+    "activityName": "Push Ups",
+    "activityTime": 20
+  },
+  {
+    "id": "88272a0021f5",
+    "img": "./img/incline-push-ups.png",
+    "activityName": "Incline Push Ups",
+    "activityTime": 20
+  },
+  {
+    "id": "88272a0026d3",
+    "img": "./img/cobra-stretch.png",
+    "activityName": "Cobra Stretch",
+    "activityTime": 30
+  },
+  {
+    "id": "88272a0026j1",
+    "img": "./img/diamond-push-up.png",
+    "activityName": "Diamond Push Ups",
+    "activityTime": 30
+  },
+  {
+    "id": "88272a0029u4",
+    "img": "./img/triceps-dips.png",
+    "activityName": "Triceps Push Ups",
+    "activityTime": 20
+  },
+  {
+    "id": "88272a0020h2",
+    "img": "./img/knee-push-ups.png",
+    "activityName": "Knee Push Ups",
+    "activityTime": 30
+  }
+]
